@@ -23,9 +23,9 @@
     [下载 Project4.mp4](https://github.com/s19m3nug-boop/Project_Description/raw/main/videos/Project4.mp4)
   
     <details>
-        <summary>📺 核心功能演示（点击展开）</summary>
+    	<summary>📺 核心功能演示（点击展开）</summary>
         <video src="https://raw.githubusercontent.com/s19m3nug-boop/Project_Description/main/videos/Project4.mp4" width="800" controls preload="metadata">
-            你的浏览器不支持视频播放，请点击上方链接下载查看
+        	你的浏览器不支持视频播放，请点击上方链接下载查看
         </video>
     </details>
   
