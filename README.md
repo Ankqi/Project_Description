@@ -34,13 +34,14 @@
 
   - **木犀电商平台核心演示：**（核心！！！）
   
-  [下载 Project1.mp4](https://github.com/s19m3nug-boop/Project_Description/raw/main/videos/Project1.mp4)
+  [下载 Project1.mp4](https://github.com/Ankqi/Project_Description/raw/main/videos/Project1.mp4)
   
   <details>
       <summary>📺 核心功能演示（点击展开，加载慢请稍等/下载）</summary>
-      <video src="https://raw.githubusercontent.com/s19m3nug-boop/Project_Description/main/videos/Project1.mp4" width="800" controls="controls" preload="metadata">
+      <video src="https://raw.githubusercontent.com/Ankqi/Project_Description/main/videos/Project1.mp4" width="800" controls="controls" preload="metadata">
     你的浏览器不支持视频播放，请点击上方链接下载查看  </video>
   </details>
+  
   
   
   
@@ -48,11 +49,11 @@
   
   - **校园二手交易站**（它这里跟木犀电商平台完全无关，只是为了占个广告位~~~）
   
-  [下载 Project2.mp4](https://github.com/s19m3nug-boop/Project_Description/raw/main/videos/Project2.mp4)
+  [下载 Project2.mp4](https://github.com/Ankqi/Project_Description/raw/main/videos/Project2.mp4)
   
   <details>
       <summary>📺 核心功能演示（点击展开，加载慢请稍等/下载）</summary>
-      <video src="https://raw.githubusercontent.com/s19m3nug-boop/Project_Description/main/videos/Project2.mp4" width="800" controls="controls" preload="metadata">
+      <video src="https://raw.githubusercontent.com/Ankqi/Project_Description/main/videos/Project2.mp4" width="800" controls="controls" preload="metadata">
     你的浏览器不支持视频播放，请点击上方链接下载查看  </video>
   </details>
   
@@ -60,13 +61,14 @@
   
   
   
+  
   - **个人博客**（这里也是占个广告位！！！）
   
-  [下载 Project3.mp4](https://github.com/s19m3nug-boop/Project_Description/raw/main/videos/Project3.mp4)
+  [下载 Project3.mp4](https://github.com/Ankqi/Project_Description/raw/main/videos/Project3.mp4)
   
   <details>
       <summary>📺 核心功能演示（点击展开，加载慢请稍等/下载）</summary>
-      <video src="https://raw.githubusercontent.com/s19m3nug-boop/Project_Description/main/videos/Project3.mp4" width="800" controls="controls" preload="metadata">
+      <video src="https://raw.githubusercontent.com/Ankqi/Project_Description/main/videos/Project3.mp4" width="800" controls="controls" preload="metadata">
      你的浏览器不支持视频播放，请点击上方链接下载查看 </video>
   </details>
 
@@ -132,7 +134,7 @@
 
 > 注：拓扑图源文件为 drawio 格式，可下载编辑；PNG 为可视化版本，方便快速查看。
 
-![木犀电商平台系统拓扑图](https://raw.githubusercontent.com/s19m3nug-boop/Project_Description/main/assets/系统拓扑图.png)
+![木犀电商平台系统拓扑图](https://raw.githubusercontent.com/Ankqi/Project_Description/main/assets/系统拓扑图.png)
 
 拓扑图源文件：[系统拓扑图.drawio](https://raw.githubusercontent.com/s19m3nug-boop/Project_Description/main/assets/系统拓扑图.drawio)
 
